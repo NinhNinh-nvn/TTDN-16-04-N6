@@ -1,162 +1,169 @@
-🎓 KHOA CÔNG NGHỆ THÔNG TIN – ĐẠI HỌC ĐẠI NAM
-🚀 FITDNU HR AI – HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI
-<p align="center"> <img src="dnu_logo.png" alt="Dai Nam University" height="80"/> <img src="fitdnu_logo.png" alt="FIT DNU" height="80"/> <img src="aiotlab_logo.png" alt="AIoTLab" height="80"/> </p>
+# 🎓 KHOA CÔNG NGHỆ THÔNG TIN – ĐẠI HỌC ĐẠI NAM  
+# 🚀 FITDNU HR AI – HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI
 
-📄 Poster dự án: Xem Poster FITDNU HR AI
+<p align="center">
+  <img src="dnu_logo.png" alt="Dai Nam University" height="80"/>
+  <img src="fitdnu_logo.png" alt="FIT DNU" height="80"/>
+  <img src="aiotlab_logo.png" alt="AIoTLab" height="80"/>
+</p>
 
-📖 1. Giới thiệu
+<p align="center">
+📄 <strong>Poster dự án:</strong> <a href="N6Poster.pdf">Xem Poster FITDNU HR AI</a>
+</p>
 
-FITDNU HR AI là hệ thống Quản lý Nhân sự (Human Resource Management) được phát triển trên nền tảng ERP Odoo, tích hợp Trí tuệ Nhân tạo (AI) nhằm tự động hóa và nâng cao hiệu quả quản lý nhân sự trong doanh nghiệp.
+---
 
-Dự án được triển khai tại Phòng thí nghiệm AIoT – Khoa Công nghệ Thông tin – Đại học Đại Nam, phục vụ:
+## 📖 1. Giới thiệu
 
-Học phần Thực tập / Thực doanh nghiệp
+**FITDNU HR AI** là hệ thống **Quản lý Nhân sự (Human Resource Management System)** được xây dựng trên nền tảng **ERP Odoo**, tích hợp **Trí tuệ Nhân tạo (AI)** nhằm tự động hóa, giám sát và nâng cao hiệu quả quản lý nhân sự trong doanh nghiệp.
 
-Nghiên cứu AI ứng dụng trong hệ thống ERP
+Hệ thống hướng tới:
+- Số hóa toàn bộ quy trình nhân sự
+- Giảm gian lận trong chấm công
+- Tự động hóa tính lương
+- Hỗ trợ ra quyết định cho nhà quản lý
 
-Mô phỏng và thử nghiệm hệ thống HR cho doanh nghiệp thực tế
+📍 Dự án được triển khai tại **Phòng thí nghiệm AIoT – Khoa Công nghệ Thông tin – Đại học Đại Nam**, phục vụ cho:
+- 🎓 Học phần Thực tập / Thực doanh nghiệp
+- 🧠 Nghiên cứu AI ứng dụng trong ERP
+- 🏢 Mô phỏng hệ thống HR doanh nghiệp
 
-🧾 2. Poster dự án
-<p align="center"> <a href="N6Poster.pdf"> <strong>📄 Click để xem Poster FITDNU HR AI</strong> </a> </p>
+---
 
-Poster thể hiện:
+## 🧾 2. Poster dự án
 
-Tổng quan hệ thống
+<p align="center">
+  <a href="N6Poster.pdf">
+    <strong>📄 Click để xem Poster FITDNU HR AI</strong>
+  </a>
+</p>
 
-Kiến trúc giải pháp
+**Poster thể hiện:**
+- Tổng quan hệ thống
+- Kiến trúc giải pháp
+- Công nghệ sử dụng
+- Chức năng chính
+- Minh họa giao diện phần mềm
 
-Công nghệ sử dụng
+---
 
-Các chức năng chính
+## 🖼️ 3. Giao diện & Hình ảnh phần mềm
 
-Minh họa giao diện phần mềm
+### 🔐 3.1. Giao diện đăng nhập
 
-🖼️ 3. Giao diện & Hình ảnh phần mềm
-🔐 3.1. Giao diện đăng nhập hệ thống
-<p align="center"> <img src="Screenshot 2026-01-22 220451.png" width="85%"> </p>
+<p align="center">
+  <img src="Screenshot 2026-01-22 220451.png" width="85%">
+</p>
 
-Đăng nhập hệ thống ERP HR
+- Đăng nhập hệ thống ERP HR
+- Phân quyền: Admin / HR / Quản lý / Nhân viên
+- Kiểm soát truy cập dữ liệu
 
-Phân quyền theo vai trò: Admin / HR / Quản lý / Nhân viên
+---
 
-Kiểm soát truy cập dữ liệu nhân sự
+### 📊 3.2. Dashboard quản trị nhân sự
 
-📊 3.2. Dashboard tổng quan quản trị nhân sự
-<p align="center"> <img src="Screenshot 2026-01-22 220559.png" width="95%"> </p>
+<p align="center">
+  <img src="Screenshot 2026-01-22 220559.png" width="95%">
+</p>
 
-Thống kê tổng số nhân viên
+- Thống kê nhân sự
+- Tỷ lệ đi làm đúng giờ
+- Cảnh báo gian lận AI
+- Biểu đồ realtime
 
-Tỷ lệ đi làm đúng giờ
+---
 
-Cảnh báo gian lận từ AI
+### ⏱️ 3.3. Dashboard chấm công & AI
 
-Biểu đồ dữ liệu theo thời gian thực
+<p align="center">
+  <img src="Screenshot 2026-01-22 220630.png" width="95%">
+</p>
 
-⏱️ 3.3. Dashboard chấm công & giám sát AI
-<p align="center"> <img src="Screenshot 2026-01-22 220630.png" width="95%"> </p>
+- Theo dõi chấm công trong ngày
+- Phát hiện bất thường
+- Phê duyệt tự động / thủ công
 
-Theo dõi trạng thái chấm công trong ngày
+---
 
-Phát hiện hành vi bất thường
+## ⭐ 4. Chức năng chính
 
-Hỗ trợ phê duyệt tự động / thủ công
+### 4.1. Chấm công thông minh
+- Nhận diện khuôn mặt AI
+- Chống chấm công hộ
+- Xác thực GPS
+- Lưu trữ realtime
 
-⭐ 4. Chức năng chính của hệ thống
-4.1. Chấm công thông minh
+### 4.2. Phát hiện gian lận
+- Phân tích hành vi
+- Phát hiện:
+  - Giờ làm bất thường
+  - Trùng thời gian
+  - Sai vị trí
+- Chấm điểm rủi ro (Risk Score)
 
-Nhận diện khuôn mặt bằng AI
+### 4.3. Tính lương tự động
+- Tính lương theo công & OT
+- Phụ cấp, bảo hiểm, thuế TNCN
+- Xuất payslip
 
-Chống chấm công hộ, ảnh giả, video giả
+### 4.4. Quản lý nhân sự
+- Hồ sơ nhân viên
+- Phòng ban
+- Hợp đồng lao động
+- Lịch sử công tác
 
-Xác thực vị trí GPS
+---
 
-Lưu trữ dữ liệu realtime
+## 🛠️ 5. Công nghệ sử dụng
 
-4.2. Phát hiện gian lận bằng AI
+### 5.1. ERP – Odoo 15.0
+<p align="center">
+  <img src="Screenshot 2026-01-22 220559.png" width="90%">
+</p>
 
-Phân tích hành vi chấm công
+- ERP mã nguồn mở
+- Kiến trúc module HR
 
-Phát hiện các bất thường:
+### 5.2. Backend – Python
+<p align="center">
+  <img src="Screenshot 2026-01-22 220630.png" width="90%">
+</p>
 
-Giờ làm không hợp lý
+- Xử lý nghiệp vụ HR
+- Tính toán lương & công
+- Kết nối AI Engine
 
-Trùng thời gian
+### 5.3. Frontend – XML / JavaScript
+<p align="center">
+  <img src="Screenshot 2026-01-22 220451.png" width="85%">
+</p>
 
-Sai vị trí
+- Giao diện theo chuẩn Odoo
+- UI thân thiện người dùng
 
-Chấm điểm rủi ro (Risk Score)
+### 5.4. AI & Machine Learning
+- OpenCV
+- TensorFlow
+- Face Recognition
+- Isolation Forest
 
-4.3. Tính lương tự động
+### 5.5. Cơ sở dữ liệu
+- PostgreSQL
+- Lưu trữ HR, Attendance, Payroll
 
-Tính lương theo ngày công & tăng ca
+---
 
-Áp dụng phụ cấp, bảo hiểm, thuế TNCN
+## 🚀 6. Cài đặt & triển khai
 
-Xuất bảng lương & payslip
-
-4.4. Quản lý nhân sự
-
-Hồ sơ nhân viên chi tiết
-
-Quản lý phòng ban
-
-Quản lý hợp đồng lao động
-
-Theo dõi lịch sử công tác
-
-🛠️ 5. Công nghệ sử dụng (có minh họa phần mềm)
-5.1. Nền tảng ERP – Odoo 15.0
-<p align="center"> <img src="Screenshot 2026-01-22 220559.png" width="90%"> </p>
-
-ERP mã nguồn mở
-
-Xây dựng hệ thống HR theo mô hình module
-
-5.2. Backend – Python
-<p align="center"> <img src="Screenshot 2026-01-22 220630.png" width="90%"> </p>
-
-Xử lý nghiệp vụ HR
-
-Tính toán chấm công & lương
-
-Kết nối AI Engine
-
-5.3. Frontend – XML / JavaScript
-<p align="center"> <img src="Screenshot 2026-01-22 220451.png" width="85%"> </p>
-
-Xây dựng giao diện người dùng
-
-Tuân thủ chuẩn UI của Odoo ERP
-
-5.4. AI & Machine Learning
-
-OpenCV
-
-TensorFlow
-
-Face Recognition
-
-Isolation Forest
-
-Ứng dụng trong chấm công & phát hiện gian lận.
-
-5.5. Cơ sở dữ liệu
-
-PostgreSQL
-
-Lưu trữ dữ liệu nhân sự, chấm công, bảng lương
-
-🚀 6. Cài đặt & triển khai (tóm tắt)
+```bash
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python odoo-bin -c odoo.conf -d fitdnu_hr_ai
-
-
 👉 Truy cập: http://localhost:8069
 
 🏗️ 7. Kiến trúc hệ thống
-
 Client: Web Browser
 
 Backend: Odoo Server
@@ -176,9 +183,7 @@ Database: PostgreSQL
 ├── dnu_logo.png
 ├── fitdnu_logo.png
 └── fitdnu_hr_ai.zip
-
 📞 9. Liên hệ
-
 Người thực hiện dự án
 
 👤 Nguyễn Việt Ninh
@@ -189,13 +194,13 @@ Người thực hiện dự án
 
 🧠 Phòng thí nghiệm AIoT – FIT DNU
 
-Mục đích liên hệ:
+Mục đích liên hệ
 
 Trao đổi học thuật
 
 Hợp tác nghiên cứu
 
-Phát triển & mở rộng dự án
+Phát triển dự án
 
 📝 10. Bản quyền
 © 2026 AIoTLab – Khoa Công nghệ Thông tin – Đại học Đại Nam
