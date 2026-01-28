@@ -1,5 +1,5 @@
 # 🎓 KHOA CÔNG NGHỆ THÔNG TIN – ĐẠI HỌC ĐẠI NAM  
-# 🚀 FITDNU HR AI – HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI
+## 🚀 FITDNU HR AI – HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI
 
 <p align="center">
   <img src="dnu_logo.png" alt="Dai Nam University" height="80"/>
@@ -8,106 +8,80 @@
 </p>
 
 <p align="center">
-📄 <strong>Poster dự án:</strong> <a href="N6Poster.pdf">Xem Poster FITDNU HR AI</a>
+📄 <strong>Poster dự án:</strong> <a href="N6Poster.pdf">Click để xem Poster FITDNU HR AI</a>
 </p>
 
 ---
 
 ## 📖 1. Giới thiệu
 
-**FITDNU HR AI** là hệ thống **Quản lý Nhân sự (Human Resource Management System)** được xây dựng trên nền tảng **ERP Odoo**, tích hợp **Trí tuệ Nhân tạo (AI)** nhằm tự động hóa, giám sát và nâng cao hiệu quả quản lý nhân sự trong doanh nghiệp.
+**FITDNU HR AI** là hệ thống **Quản lý Nhân sự (HR Management System)** được xây dựng trên nền tảng **ERP Odoo**, tích hợp **Trí tuệ Nhân tạo (AI)** để:
 
-Hệ thống hướng tới:
-- Số hóa toàn bộ quy trình nhân sự
-- Giảm gian lận trong chấm công
-- Tự động hóa tính lương
-- Hỗ trợ ra quyết định cho nhà quản lý
+- Tự động hóa quy trình chấm công
+- Phát hiện gian lận thông minh
+- Tính lương tự động theo luật Việt Nam
+- Hỗ trợ báo cáo trực quan
 
-📍 Dự án được triển khai tại **Phòng thí nghiệm AIoT – Khoa Công nghệ Thông tin – Đại học Đại Nam**, phục vụ cho:
+Dự án được phát triển tại **Phòng thí nghiệm AIoT – Khoa Công nghệ Thông tin – Đại học Đại Nam** và phù hợp cho:
+
 - 🎓 Học phần Thực tập / Thực doanh nghiệp
-- 🧠 Nghiên cứu AI ứng dụng trong ERP
-- 🏢 Mô phỏng hệ thống HR doanh nghiệp
+- 🧠 Nghiên cứu ứng dụng AI trong ERP
+- 🏢 Triển khai quản lý nhân sự mẫu cho doanh nghiệp
 
 ---
 
-## 🧾 2. Poster dự án
+## 🖼️ 2. Giao diện & Hình ảnh phần mềm
 
+### 🔐 2.1. Giao diện đăng nhập
 <p align="center">
-  <a href="N6Poster.pdf">
-    <strong>📄 Click để xem Poster FITDNU HR AI</strong>
-  </a>
+  <img src="Screenshot 2026-01-22 220451.png" width="85%"/>
 </p>
-
-**Poster thể hiện:**
-- Tổng quan hệ thống
-- Kiến trúc giải pháp
-- Công nghệ sử dụng
-- Chức năng chính
-- Minh họa giao diện phần mềm
+- Đăng nhập vào hệ thống
+- Phân quyền theo vai trò
 
 ---
 
-## 🖼️ 3. Giao diện & Hình ảnh phần mềm
-
-### 🔐 3.1. Giao diện đăng nhập
-
+### 📊 2.2. Dashboard quản trị nhân sự
 <p align="center">
-  <img src="Screenshot 2026-01-22 220451.png" width="85%">
+  <img src="Screenshot 2026-01-22 220559.png" width="95%"/>
 </p>
-
-- Đăng nhập hệ thống ERP HR
-- Phân quyền: Admin / HR / Quản lý / Nhân viên
-- Kiểm soát truy cập dữ liệu
-
----
-
-### 📊 3.2. Dashboard quản trị nhân sự
-
-<p align="center">
-  <img src="Screenshot 2026-01-22 220559.png" width="95%">
-</p>
-
-- Thống kê nhân sự
+- Hồ sơ nhân sự
 - Tỷ lệ đi làm đúng giờ
-- Cảnh báo gian lận AI
-- Biểu đồ realtime
+- Cảnh báo AI realtime
 
 ---
 
-### ⏱️ 3.3. Dashboard chấm công & AI
-
+### ⏱️ 2.3. Dashboard chấm công & AI
 <p align="center">
-  <img src="Screenshot 2026-01-22 220630.png" width="95%">
+  <img src="Screenshot 2026-01-22 220630.png" width="95%"/>
 </p>
-
 - Theo dõi chấm công trong ngày
 - Phát hiện bất thường
-- Phê duyệt tự động / thủ công
+- Phê duyệt công
 
 ---
 
-## ⭐ 4. Chức năng chính
+## ⭐ 3. Chức năng chính
 
-### 4.1. Chấm công thông minh
-- Nhận diện khuôn mặt AI
-- Chống chấm công hộ
-- Xác thực GPS
-- Lưu trữ realtime
+### 3.1. Chấm công thông minh
+- Nhận diện khuôn mặt bằng AI
+- Xác thực vị trí GPS
+- Chống gian lận chấm công
 
-### 4.2. Phát hiện gian lận
-- Phân tích hành vi
+### 3.2. Phát hiện gian lận
+- Phân tích hành vi chấm công
 - Phát hiện:
   - Giờ làm bất thường
-  - Trùng thời gian
   - Sai vị trí
+  - Trùng thời gian
 - Chấm điểm rủi ro (Risk Score)
 
-### 4.3. Tính lương tự động
-- Tính lương theo công & OT
-- Phụ cấp, bảo hiểm, thuế TNCN
-- Xuất payslip
+### 3.3. Tính lương tự động
+- Tính theo ngày công & OT
+- Áp dụng phụ cấp, BHXH, thuế TNCN
+- Xuất bảng lương & payslip
 
-### 4.4. Quản lý nhân sự
+### 3.4. Quản lý nhân sự
 - Hồ sơ nhân viên
 - Phòng ban
 - Hợp đồng lao động
@@ -115,55 +89,42 @@ Hệ thống hướng tới:
 
 ---
 
-## 🛠️ 5. Công nghệ sử dụng
+## 🛠️ 4. Công nghệ sử dụng
 
-### 5.1. ERP – Odoo 15.0
-<p align="center">
-  <img src="Screenshot 2026-01-22 220559.png" width="90%">
-</p>
+### 4.1. Nền tảng ERP – Odoo 15.0
+- ERP mã nguồn mở  
+- Kiến trúc module HR  
 
-- ERP mã nguồn mở
-- Kiến trúc module HR
+### 4.2. Backend – Python
+- Xử lý nghiệp vụ
+- Tính toán chấm công & lương
 
-### 5.2. Backend – Python
-<p align="center">
-  <img src="Screenshot 2026-01-22 220630.png" width="90%">
-</p>
+### 4.3. Frontend – XML / JavaScript
+- Giao diện UI theo chuẩn Odoo
 
-- Xử lý nghiệp vụ HR
-- Tính toán lương & công
-- Kết nối AI Engine
-
-### 5.3. Frontend – XML / JavaScript
-<p align="center">
-  <img src="Screenshot 2026-01-22 220451.png" width="85%">
-</p>
-
-- Giao diện theo chuẩn Odoo
-- UI thân thiện người dùng
-
-### 5.4. AI & Machine Learning
+### 4.4. AI & Machine Learning
 - OpenCV
 - TensorFlow
 - Face Recognition
 - Isolation Forest
 
-### 5.5. Cơ sở dữ liệu
-- PostgreSQL
-- Lưu trữ HR, Attendance, Payroll
+### 4.5. Cơ sở dữ liệu – PostgreSQL
+- Lưu trữ dữ liệu nhân sự & bảng lương
 
 ---
 
-## 🚀 6. Cài đặt & triển khai
+## 🚀 5. Cài đặt & Triển khai
 
 ```bash
+git clone https://github.com/NinhNinh-nvn/TTDN-16-04-N6.git
+cd TTDN-16-04-N6
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
 python odoo-bin -c odoo.conf -d fitdnu_hr_ai
 👉 Truy cập: http://localhost:8069
+## 🏗️ 6. Kiến trúc hệ thống
 
-🏗️ 7. Kiến trúc hệ thống
 Client: Web Browser
 
 Backend: Odoo Server
@@ -171,8 +132,7 @@ Backend: Odoo Server
 AI Engine
 
 Database: PostgreSQL
-
-📦 8. Cấu trúc thư mục
+## 📦 7. Cấu trúc thư mục
 .
 ├── README.md
 ├── N6Poster.pdf
@@ -183,7 +143,9 @@ Database: PostgreSQL
 ├── dnu_logo.png
 ├── fitdnu_logo.png
 └── fitdnu_hr_ai.zip
-📞 9. Liên hệ
+
+📞 8. Liên hệ
+
 Người thực hiện dự án
 
 👤 Nguyễn Việt Ninh
@@ -191,18 +153,3 @@ Người thực hiện dự án
 🎓 Sinh viên Khoa Công nghệ Thông tin
 
 🏫 Đại học Đại Nam
-
-🧠 Phòng thí nghiệm AIoT – FIT DNU
-
-Mục đích liên hệ
-
-Trao đổi học thuật
-
-Hợp tác nghiên cứu
-
-Phát triển dự án
-
-📝 10. Bản quyền
-© 2026 AIoTLab – Khoa Công nghệ Thông tin – Đại học Đại Nam
-Người thực hiện: Nguyễn Việt Ninh
-All rights reserved.
