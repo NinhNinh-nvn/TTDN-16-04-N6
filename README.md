@@ -1,6 +1,7 @@
-# 🎓 KHOA CÔNG NGHỆ THÔNG TIN – ĐẠI HỌC ĐẠI NAM
-
-## 🚀 FITDNU HR AI – HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI
+<p align="center">
+<b>KHOA CÔNG NGHỆ THÔNG TIN – ĐẠI HỌC ĐẠI NAM</b><br/>
+🚀 FITDNU HR AI – HỆ THỐNG QUẢN LÝ NHÂN SỰ TÍCH HỢP AI
+</p>
 
 <p align="center">
   <img src="dnu_logo.png" alt="Dai Nam University" height="80"/>
